@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "眠り姫",
+  "base_artist": "SEKAI NO OWARI",
+  "createdAt": "2025-12-10T15:48:26.057213Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "眠り姫",
+      "artist": "Claris",
+      "has_synced": false,
+      "path": "select/01_眠り姫_Claris.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "眠り姫",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/02_眠り姫_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "眠り姫",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/03_眠り姫_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "眠り姫",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": true,
+      "path": "select/04_眠り姫_9mm_Parabellum_Bullet.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "眠り姫",
+      "artist": "Acid Black Cherry",
+      "has_synced": true,
+      "path": "select/05_眠り姫_Acid_Black_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "眠り姫 - Nemurihime",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/06_眠り姫_-_Nemurihime_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "眠り姫",
+      "artist": "Guiano",
+      "has_synced": false,
+      "path": "select/07_眠り姫_Guiano.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "眠り姫",
+      "artist": "Acid Black Cherry",
+      "has_synced": false,
+      "path": "select/08_眠り姫_Acid_Black_Cherry.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nemuri Hime (眠り姫)",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": true,
+      "path": "select/09_Nemuri_Hime_(眠り姫)_9mm_Parabellum_Bullet.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "眠り姫",
+      "artist": "中原めいこ",
+      "has_synced": true,
+      "path": "select/10_眠り姫_中原めいこ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "眠り姫 [ORT]",
+      "artist": "如月千早 (CV: 今井麻美)",
+      "has_synced": false,
+      "path": "select/11_眠り姫_[ORT]_如月千早_(CV__今井麻美).txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "眠り姫 - Nemurihime",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/12_眠り姫_-_Nemurihime_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "眠り姫",
+      "artist": "如月千早(CV.今井麻美)",
+      "has_synced": false,
+      "path": "select/13_眠り姫_如月千早(CV.今井麻美).txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "眠り姫",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/14_眠り姫_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "眠り姫",
+      "artist": "如月千早",
+      "has_synced": false,
+      "path": "select/15_眠り姫_如月千早.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "眠り姫",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": false,
+      "path": "select/pl_01_眠り姫_SEKAI_NO_OWARI.txt"
+    }
+  ]
+}
